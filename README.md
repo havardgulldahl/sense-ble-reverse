@@ -1,22 +1,9 @@
-# ef-ble-reverse
+# sense-ble-reverse
 
-Independent DIY repository contains a set of experiments and scripts to connect to your ecoflow
-devices through bluetooth and monitor their status / control parameters.
+Repo for reverse engineering the Røroshetta Sense Bluetooth protocol, based upon rf-ble-reverse.
 
-Devices:
-* Smart Home Panel 2 (EF-HD3####, FW Version: 4.0.0.122, WiFi Version: 2.0.1.20)
-* Delta Pro Ultra (EF-YJ####, FW Version: 5.0.0.25, WiFi Version: 2.0.2.4)
+## WARNING: WIP!
 
-The whole process of RE took ~1 month evenings, I've solved a numerous challenges on the way, but
-quite sure missed something - so will be glad if you can add to the information we have or help in
-some other way.
-
-## Goal
-
-To develop a local solution to control ecoflow devices via homeassistant automation. Here is just
-tools & experiments to share with community.
-
-* Home Assistant integration: https://github.com/rabits/ha-ef-ble
 
 ## WARNING: Support & Warranty
 
